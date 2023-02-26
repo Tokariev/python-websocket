@@ -1,2 +1,2 @@
 # Client <-> WebSocket Server example
-<img width="1722" alt="Screenshot 2023-02-26 at 12 19 48" src="https://user-images.githubusercontent.com/26324819/221407386-84f58ee8-c86c-4bdf-8e2c-54c5af7f2124.png">
+![webshare](https://user-images.githubusercontent.com/26324819/221407896-c8809941-3c10-4292-a4ab-efe80a5842ab.gif)
