@@ -1,12 +1,12 @@
 import socket
 
 
-SERVERT_ADDRESS = ('127.0.0.1', 5001)
+SERVER_ADDRESS = ('127.0.0.1', 5001)
 
 server_socket = socket.socket(socket.AF_INET,
                               socket.SOCK_STREAM)
 
-server_socket.bind(SERVERT_ADDRESS)
+server_socket.bind(SERVER_ADDRESS)
 server_socket.listen(5)
 print('Server is listening...')
 
